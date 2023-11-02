@@ -21,15 +21,20 @@ General Idea:
 -------------------------------
 
 
-------------------------------------------------
+------------------------
+DHRUV's Domain
+------------------------
 
-X-X-X-X-X-X-X-X-X-X
+-----
 
 Storyline:
+---
+
+---
 
 -----Scene_1-----
 
-*starts at first person view*
+(*starts at first person view*)
 
 player sitting in classroom during a class falls asleep...
 
@@ -41,25 +46,25 @@ this gets faster exponentially...
 
 everything around him starts ageing
 
-*time stops accelerating*
+(*time stops accelerating*)
 
-*night*
+(*night*)
 
-**player gets control of the character**
+(*player gets control of the character*)
 
-*gets near a mirror, looks at himself as he has aged too*
+(*gets near a mirror, looks at himself as he has aged too*)
 
-*the camera zooms towards the image in the mirror*
+(*the camera zooms towards the image in the mirror*)
 
-*takes a smooth turn*
+(*takes a smooth turn*)
 
-***takes control of the image in the mirror***
+(***takes control of the image in the mirror***)
 
-*camera transits into 3rd person view*
+(*camera transits into 3rd person view*)
 
 the building starts shaking
 
-*player gets instruction while exiting the school building*
+(*player gets instruction while exiting the school building*)
 
 gets out of the building, building collapses
 
@@ -75,23 +80,23 @@ finds a mirror lying mysteriously on a wall...
 
 looks at his image
 
-*camera zooms towards the image*
+(*camera zooms towards the image*)
 
-*transits into first person view*
+(*transits into first person view*)
 
-*a strong earthquake hits*
+(*a strong earthquake hits*)
 
-*player falls facing the ground*
+(*player falls facing the ground*)
 
-**shuts his eyes**
+(*shuts his eyes*)
 
-<voices starts racing his mind>
+(*voices starts racing his mind*)
 
 -----Scene_2-----
 
-*first person view*
+(*first person view*)
 
-*player opens his eyes*
+(*player opens his eyes*)
 
 looks around, finds himself at the place he was earlier...
 
@@ -99,8 +104,50 @@ but it is present time, he finds no one on the streets
 
 he goes inside his house, finds no one there
 
+searchs the house for any traces of his family leaving
+
+finds none
+
+(*gets some fashes of events*)
+
+(*player trys to remember, gets some flashes of some memory of a forest*)
+
+speaks to himselft " i think yesterday i went to that forest..."
+
+player:"but why can't i remember anything..."
+
+"i should checkout that forest... maybe it's dream"
+
+"yeah this can't be real..."
+
+(*near the exit he looks towards a mirror*)
+
+(*camera changes into 3rd person)
+
+he gets out of his house, thinking for a way to go to that forest
+
+as he steps out of his house, his house explodes
+
+(*player gets thrown away*)
+
+he spots some blood stains in the debris
+
+he goes near it, finds himself there
+
+(*again a strong earthquake hits*)
+
+(*player fall to the ground*)
+
+(*faints*)
+
+-----Scene_3-----
+
+(*first person view starts*)
+
+finds himself again in the school 
+
 ~ Dhruv will contiue
 
 suggestions:-()
 
-X-X-X-X-X-X-X-X-X-X
+----
