@@ -10,13 +10,15 @@ X-X-X-X-X-X-X
 
 General Idea:
 
+-------------------------------
+
 - Have a fantasy setting with vibrant environments and unique creatures. An adventure style experience, exploration and stuff.
 
 - An open-world experience
 
 - Different zones of the world, with different landscapes and different creatures unique to the zone
 
-
+-------------------------------
 
 
 X-X-X-X-X-X-X
