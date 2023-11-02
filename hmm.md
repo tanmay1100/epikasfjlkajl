@@ -18,6 +18,8 @@ General Idea:
 
 - Different zones of the world, with different landscapes and different creatures unique to the zone
 
+- Having an arsenal consisting of weaponry which are a combination of mediaeval and futuristic weaponry.
+
 -------------------------------
 
 
