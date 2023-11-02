@@ -4,7 +4,7 @@ Game ideas:
 - Time-Travel Adventure: game that involves time travel. Players could solve puzzles in different time periods of time to affect the present or future.(things gonna mess up so player will have to solve the problems while solveing problems he creates more problems)
 
 
-X-X-X-X-X-X-X
+----------------------------------------------
 
 (Tanmay's real estate)(Do not tresspass)
 
@@ -21,7 +21,7 @@ General Idea:
 -------------------------------
 
 
-X-X-X-X-X-X-X
+------------------------------------------------
 
 X-X-X-X-X-X-X-X-X-X
 
