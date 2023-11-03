@@ -148,14 +148,27 @@ he goes near it, finds himself there
 
 finds himself again in the school 
 
+(*again gets some flashes of memories of a forest*)
+
+(*cut scene start*)
+
+player was on his way to his house 
+
+while crossing a dense forest 
+
+a strong eathquake hits with some bright flash coming from a certain place in the forest
+
+he moves there to check it out
+
+finds a creater, there was something moving there but he couldn't figure out what it was
+
+he gets creepy vibe from the place, starts walking out of the forest
+
 ~ Dhruv will contiue
 
 suggestions:-()
 
 ----
-
-
-
 
 
 
