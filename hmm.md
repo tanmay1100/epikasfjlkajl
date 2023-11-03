@@ -218,3 +218,20 @@ After a thrilling boss fight, the MC returns to the present to find that time ha
 The MC has the choice to either destroy the ancient-Relic to prevent further tampering with time or to keep it, promising to use it responsibly.
 
 Depending on the MC's choice, the game ends with a glimpse of a future shaped by the consequences of their actions.
+----------------------------------------------------------------------------------------------------------------------
+Lucky's Workspace 
+----------------------------------------------------------------------------------------------------------------------
+General Game ideas-- 
+1.Related to character-
+character customization
+players earn skillpoints based on the number of enemy he defeats as the story moves on and will be given 3 categeories to apply them- 
+1 Survival- This will icrease the max health , regenration speed , stamina (needed to perform a special attack move)
+2 Physique- This will increase the attack damage, dodge speed(or speed in general ) , rage duration
+3 Abilities- This will unlock ablities based on the game's theme(as soon as i get the storyline this part will be done )
+2. Related to Equipments-
+there will be classes for all the accessories such as- common,uncommon,rare,epic,legendary and mythical
+There are three categeories realted to this part-
+1 Defence- Accessories in this categeory will mostly increase the player's defence, accessories in this categeory will be divided into 3 types head gear, vest gear , foot gear and when an equipment is upgraded to a certain they can then be enchanted and give buffs like more max health or faster regeneration(when legendary or mythicak equipment is upgraded they will give buffs like 35% more defence against boss attacks or 45% damage return )
+2 Weapons- Accessories in this categeory will increase the combat experience, accessories in this categeory will be divided 3 types long range(bow,gun,chained knife) , mid range(swords,spears,staff) , close range(dagger,iron knuckles ,nunchaku) and when an equipment is upgraded to a certain level players can enchant them normal weapons will give buffs like 10-20% increased damage ( legendary or mythic weapons will have abilities like life steal , poison and longer stuns) players can also unlock new moves for epic, legendary and mythic weapons
+3 others- Accessories in this categeory will help the player to find treasures , 2x money ,more medicine drops from enemies ( which can be used to increase health ) , abilities to fill rage bar faster and more stuff like that , legendary and mythic items gives buff like unbreakable attacks for 10 seconds when activated or 3 second stun with each attack for 30 second (they cannot be enchanted or upgraded)
+I WILL CONTINUE 
