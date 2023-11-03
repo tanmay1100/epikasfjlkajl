@@ -167,7 +167,8 @@ suggestions:-()
 
 
 
-----------------------------------------------------------------------------------------------------------------------------------------                                                        Aaditya's realm                                                                
+----------------------------------------------------------------------------------------------------------------------------------------
+                                                        Aaditya's realm                                                                 
 ----------------------------------------------------------------------------------------------------------------------------------------
 Game Title: "Temporal Paradox: The Puzzle of Time"
 
@@ -181,17 +182,20 @@ The game introduces a charecter who is a time traveler who helps the MC understa
 The MC travels to the first historical period and discovers a significant puzzule/problem that, once solved, will repair the first disruption.
 
 Act 2: Unintended Consequences
+
 After solving the initial puzzle, the MC returns to the present and finds things have improved, but new problems have arisen.
 
 The MC realizes that each solved puzzle in the past has unintended consequences in the present, leading to a series of problems and challenges.
 As the MC continues to explore different historical periods, they begin to uncover a mysterious organization that is tampering with time for their own evil purposes.
 
 Act 3: Uncovering the Truth
+
 The MC dives deeper into the secrets of the Ancient-Relic and the true nature of the organization.
 
 The MC learns that the organization seeks to alter the course of history to gain ultimate power.
 To thwart the organization's plans, the MC must travel to a crucial point in history and solve a final, epik puzzle that will restore the timeline.
 Act 4: The Climax
+
 The MC confronts the organization's leader in a dramatic showdown that combines boss fight with organisation leader with time-travel mechanics.
 
 The MC and their mentor(time traveller guy) work together to outsmart the organization and set things right.
