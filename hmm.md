@@ -166,10 +166,48 @@ he gets creepy vibe from the place, starts walking out of the forest
 
 ~ Dhruv will contiue
 
-suggestions:-()
+---
 
-----
+Game mechanics:
+-
 
+Base mechanics:
+
+there will be something like "time_fluid"
+
+it's concentration in the player blood will be shown as a bar
+
+after killing certain types of mobs and bosses the concentration will increase
+
+amount gained by killing mobs and bosses will increase as the player levels up
+
+the capacity of the blood to hold this fluid will also increase by using it many times
+
+increased capacity will be shown as >%100
+
+if the concentration reaches 100% then player will get some buffs
+
+but if held 100% concentration for too long around 10min then it would kill the player
+
+Time travel:
+
+player can travel time only through mirrors (will come up with a good reason later)
+
+time traveling will be possible only when the concentration of the of the fuild is above a certain mark like 80%
+
+it will consume around 80% of the concentration and being in timelines other than the present time will consume some fluid
+
+and if player runs out of it in other timeline then player will start ageing if in future or growing younger if in past for some buffer time 
+
+if under this time the player doesn't replenish the fluid then the player will die
+
+Skill:
+
+every skill will consume some amount of time fluid
+
+the more advanced a skill the more fluid it will consume
+
+upgrading the skills will make them use less fluid and cause more damage or increase its duration
 
 
 
