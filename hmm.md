@@ -218,9 +218,9 @@ upgrading the skills will make them use less fluid and cause more damage or incr
 
 
 
-----------------------------------------------------------------------------------------------------------------------------------------
-                                                        Aaditya's realm                                                                 
-----------------------------------------------------------------------------------------------------------------------------------------
+--------------------
+Aaditya's realm
+--------------------
 Game Title: "Temporal Paradox: The Puzzle of Time"
 
 Introduction:
@@ -245,6 +245,7 @@ The MC dives deeper into the secrets of the Ancient-Relic and the true nature of
 
 The MC learns that the organization seeks to alter the course of history to gain ultimate power.
 To thwart the organization's plans, the MC must travel to a crucial point in history and solve a final, epik puzzle that will restore the timeline.
+
 Act 4: The Climax
 
 The MC confronts the organization's leader in a dramatic showdown that combines boss fight with organisation leader with time-travel mechanics.
